@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BeauMarwaha
 - 💼 I'm currently a Programmer Analyst at Wegmans Food Markets
 - 👀 I’m interested in software development both for bussiness and games
+- 🧑‍💻 I’m most familiar with C# and Web development
 - 🌱 I’m currently learning Unreal and C++
 - 🏫 I'm a graduate of the Rochester Institute of Technology
 - 📫 You can reach me at my email: beaumarwaha@gmail.com
